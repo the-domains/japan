@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Japan]]></title>
         <description><![CDATA[Japan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/japan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 02:30:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Dec 2015 02:30:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/japan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7c127cc-fd3a-41d4-83cf-e52f8ba7fb99.png">]]></description>
+            <link>https://thegrid.ai/japan/14f77d3c-267b-47ef-8018-455735063ea2/index.html</link>
+            <guid isPermaLink="false">14f77d3c-267b-47ef-8018-455735063ea2</guid>
+            <pubDate>Sun, 06 Dec 2015 02:30:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack]]></title>
             <description><![CDATA[<article><h1>Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack</h1><p>Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack - YouTube</p></article>]]></description>
-            <link>undefinedwiz-khalifa-see-you-again-ft-charlie-puth-official-video/index.html</link>
+            <link>https://thegrid.ai/japan/wiz-khalifa-see-you-again-ft-charlie-puth-official-video/index.html</link>
             <guid isPermaLink="false">5cef7159-6457-4276-a753-8710c7502071</guid>
-            <pubDate>Sun, 06 Dec 2015 02:29:51 GMT</pubDate>
+            <pubDate>Sun, 06 Dec 2015 02:30:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
