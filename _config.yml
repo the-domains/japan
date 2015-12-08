@@ -1,4 +1,4 @@
-layout_spectrum: 0.7297872
+layout_spectrum: 0.506383
 name: Japan
 collections:
   - index:
@@ -12,6 +12,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.7118201
 color:
   brandStrength: 0.2034048
   saturation: 0.9956425
@@ -23,4 +24,3 @@ color:
     - '#004E98'
   lightness: 0.799767
   rhythmicContrast: 0.5461788
-typography_spectrum: 0.7118201
