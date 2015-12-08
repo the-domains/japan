@@ -4,7 +4,7 @@
         <description><![CDATA[Japan]]></description>
         <link>https://thegrid.ai/japan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 12:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 12:20:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/japan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7c127cc-fd3a-41d4-83cf-e52f8ba7fb99.png</link>
             <guid isPermaLink="false">14f77d3c-267b-47ef-8018-455735063ea2</guid>
             <pubDate>Sun, 06 Dec 2015 09:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live from Sagamihara: Akatsuki Orbit Insertion Success!]]></title>
+            <description><![CDATA[<article><h1>Live from Sagamihara: Akatsuki Orbit Insertion Success!</h1><p>Posted by Sanjay Limaye 07-12-2015 10:16 CST Sanjay Limaye continues his first-hand account of the Akatsuki orbit insertion, begun here. December 7, 2015 3:50 am, outside ISAS Akatsuki is speeding towards Venus at 3.28 km/sec, only 72,000 km away. The sky is partly cloudy so Venus should be visible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45c42add856de9adf3679b91cebaf86b27dcb303.jpg"></article>]]></description>
+            <link>http://www.planetary.org/blogs/guest-blogs/2015/1207-live-from-sagamihara.html</link>
+            <guid isPermaLink="false">5c491705-3e38-4b9f-867b-d1d051cd1a56</guid>
+            <pubDate>Tue, 08 Dec 2015 12:19:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foreigners in Japan (funny)]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/japan/atom-bomb/index.html</link>
             <guid isPermaLink="false">79c763d7-760e-4f0e-8c1b-c55e209344d3</guid>
             <pubDate>Mon, 07 Dec 2015 00:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan's Cute Army - The New Yorker]]></title>
-            <description><![CDATA[<article><h1>Japan's Cute Army - The New Yorker</h1><p>Surrounded on all sides by ocean, postwar Japan has long been able to rely upon the United States military for strategic protection. But tense territorial disputes with neighboring countries, the capture and beheading of two Japanese journalists by ISIS in February, and the horror of the terror attacks in Paris have all served to remind the Japanese of the limits of physical isolation and dependence upon others.</p><img src="http://www.newyorker.com/wp-content/uploads/2015/11/Alt-Japans-Cute-Army-1200-630.jpg"></article>]]></description>
-            <link>http://www.newyorker.com/culture/culture-desk/japans-cute-army?intcid=mod-most-popular</link>
-            <guid isPermaLink="false">19b88909-bd25-49a6-a297-c991aaec56f0</guid>
-            <pubDate>Sun, 06 Dec 2015 10:33:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
