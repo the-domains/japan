@@ -4,7 +4,7 @@
         <description><![CDATA[Japan]]></description>
         <link>https://thegrid.ai/japan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 06:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 12:20:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/japan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7c127cc-fd3a-41d4-83cf-e52f8ba7fb99.png</link>
             <guid isPermaLink="false">14f77d3c-267b-47ef-8018-455735063ea2</guid>
             <pubDate>Sun, 06 Dec 2015 09:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foreigners in Japan (funny)]]></title>
+            <description><![CDATA[<article><h1>Foreigners in Japan (funny)</h1><p>or not! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f28a89535eb0f187686fbe850502700da154ea5.jpg"></article>]]></description>
+            <link>urn:uuid:24f224ef-56bd-4f08-a3ab-a93f6ea02135</link>
+            <guid isPermaLink="false">9e930e21-5905-4700-bf45-c863d233cd06</guid>
+            <pubDate>Tue, 08 Dec 2015 12:19:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.newyorker.com/culture/culture-desk/japans-cute-army?intcid=mod-most-popular</link>
             <guid isPermaLink="false">19b88909-bd25-49a6-a297-c991aaec56f0</guid>
             <pubDate>Sun, 06 Dec 2015 10:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raw | Sen Manga | Raw Manga : Read Raw Manga Online | Manga Raw Online | Sen Manga]]></title>
-            <description><![CDATA[<article><h1>Raw | Sen Manga | Raw Manga : Read Raw Manga Online | Manga Raw Online | Sen Manga</h1><p>read Raw manga,manga raw,manga raws </p><img src="http://raw.senmanga.com/no_preview.jpg"></article>]]></description>
-            <link>http://raw.senmanga.com/</link>
-            <guid isPermaLink="false">5c30e882-d7cd-4aaf-8f08-95e84c7f1bb1</guid>
-            <pubDate>Sun, 06 Dec 2015 06:37:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
