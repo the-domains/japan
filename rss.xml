@@ -4,15 +4,8 @@
         <description><![CDATA[Japan]]></description>
         <link>https://thegrid.ai/japan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 10:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 10:06:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/japan/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[WaniKani, a kanji learning application by Tofugu]]></title>
-            <description><![CDATA[<article><h1>WaniKani, a kanji learning application by Tofugu</h1><p>My job requires me to work with a number of Japanese companies. Reports in English usually lag a day or so behind, whereas Japanese ones are available instantly. I once tried to read the Japanese reports and was put off by how many kanji I could not read.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aff9f6872237d7ff9227397442858c60e1225a94.jpg"></article>]]></description>
-            <link>https://www.wanikani.com/</link>
-            <guid isPermaLink="false">51146ce3-40bc-4393-8335-a0fea50aaa9f</guid>
-            <pubDate>Thu, 10 Dec 2015 10:06:12 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[A Real Life Pokemon Gym Opens In Osaka, Japan]]></title>
             <description><![CDATA[<article><h1>A Real Life Pokemon Gym Opens In Osaka, Japan</h1><p>In their quest to completely blur the line between pop culture and reality the Japanese have been busy creating pop culture themed clubs, restaurants and parks, and now a Pokemon gym.Looking for a way to capture that Pokemon feel so many have now grown up with, the "real life" Pokemon gym has everything a budding Trainer needs to live out their childhood dreams.The Pokemon gym in Osaka has it all- battles, battles and, oh yeah, more battles!But there's also areas where visitors can train for battle by le...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/930b0320f3acc1ee2cdf644fa7a9a2d122e8467c.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>urn:uuid:b6e878fe-9932-4f96-9d19-ad312bf1aa91</link>
             <guid isPermaLink="false">47ba6888-10d0-4ded-a105-c8bc0680f772</guid>
             <pubDate>Mon, 07 Dec 2015 13:44:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JAXA plans to fire probe's thrusters for second attempt at Venus orbit | The Japan Times]]></title>
+            <description><![CDATA[<article><h1>JAXA plans to fire probe's thrusters for second attempt at Venus orbit | The Japan Times</h1><p>The Japan Aerospace Exploration Agency will carry out a second attempt Monday morning to put its probe into orbit around Venus, five years after the first try failed due to a main engine problem. JAXA programmed the probe Akatsuki for an attitude-control thruster burn Monday morning to send it into an elliptical orbit around Venus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2f1078828c0cc337043e1fc55dade8e8eefa9c6.jpg"></article>]]></description>
+            <link>http://www.japantimes.co.jp/news/2015/12/07/national/science-health/jaxa-plans-fire-probes-thrusters-second-attempt-venus-orbit/#.VmUtV-OGSko</link>
+            <guid isPermaLink="false">3ec64b8d-f363-4ec1-8c61-d21c8148d431</guid>
+            <pubDate>Mon, 07 Dec 2015 06:57:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
