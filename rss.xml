@@ -4,11 +4,18 @@
         <description><![CDATA[Japan]]></description>
         <link>https://thegrid.ai/japan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 04:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2015 01:38:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/japan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Sukiyaki (Ue o Muite Arukou) - Kyu Sakamoto (English Translation and Lyrics)]]></title>
+            <description><![CDATA[<article><h1>Sukiyaki (Ue o Muite Arukou) - Kyu Sakamoto (English Translation and Lyrics)</h1><p>Sukiyaki (Ue o Muite Arukou)- Kyu Sakamoto (English Translation and Lyrics) About the Lyrics The lyrics tell the story of a man who looks up and whistles while he is walking so that his tears won't fall. The verses of the song describe his memories and feelings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/477958bb8df3f2e3880580fab80c172ed56f576e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=C35DrtPlUbc</link>
+            <guid isPermaLink="false">297dbf96-d9bc-4a4c-8638-36ecc215c2d8</guid>
+            <pubDate>Sat, 12 Dec 2015 01:37:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Naruto!]]></title>
-            <description><![CDATA[<article><h1>Naruto!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d28d64bac65cf3836576c058fc7ce4e0dffc4c81.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Naruto!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/518c8a8c799424e8a8193aa7e849e67b0a88c8c0.png"></article>]]></description>
             <link>https://thegrid.ai/japan/bbcfd702-1ba8-4190-a882-88df7f500c21/index.html</link>
             <guid isPermaLink="false">bbcfd702-1ba8-4190-a882-88df7f500c21</guid>
             <pubDate>Fri, 11 Dec 2015 04:19:42 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>urn:uuid:24f224ef-56bd-4f08-a3ab-a93f6ea02135</link>
             <guid isPermaLink="false">9e930e21-5905-4700-bf45-c863d233cd06</guid>
             <pubDate>Tue, 08 Dec 2015 12:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0708ee07-da6a-4c2e-bc78-1ff46f19cd61.png">]]></description>
-            <link>https://thegrid.ai/japan/7ff0cc77-2cac-4cc9-a1a2-e7ae52e280a1/index.html</link>
-            <guid isPermaLink="false">7ff0cc77-2cac-4cc9-a1a2-e7ae52e280a1</guid>
-            <pubDate>Tue, 08 Dec 2015 06:47:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
