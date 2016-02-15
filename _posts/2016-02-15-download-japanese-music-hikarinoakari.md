@@ -12,7 +12,7 @@ inLanguage: ha
 app_links: []
 isBasedOnUrl: 'http://hikarinoakariost.info/'
 title: Download Japanese Music - HikarinoAkari
-datePublished: '2016-02-15T11:03:41.435Z'
+datePublished: '2016-02-15T11:03:40.249Z'
 dateModified: '2016-02-15T11:02:15.640Z'
 sourcePath: _posts/2016-02-15-download-japanese-music-hikarinoakari.md
 published: true
