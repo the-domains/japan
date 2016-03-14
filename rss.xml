@@ -4,8 +4,15 @@
         <description><![CDATA[Lessons on Japan and Japanese life]]></description>
         <link>https://thegrid.ai/japan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 11:56:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 07:15:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/japan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Pokémon GO Details Announced, PvP Gyms Confirmed]]></title>
+            <description><![CDATA[<article><h1>New Pokémon GO Details Announced, PvP Gyms Confirmed</h1><p>With September's announcement of Pokémon GO , an augmented reality mobile game developed by The Pokémon Company and Ingress developers, Niantic, fans have been eagerly awaiting details about how the game will operate. Previously, the only thing fans had to go on was the announcement trailer, which shows almost no gameplay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19ac6eef866dec17079c7944d48c8c4ab2d5e1cf.jpg"></article>]]></description>
+            <link>http://gamerant.com/pokemon-go-detail-gyms/</link>
+            <guid isPermaLink="false">b96eb7d9-79bc-4433-a338-09b89c13f7f6</guid>
+            <pubDate>Mon, 14 Mar 2016 07:14:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jenna in Japan]]></title>
             <description><![CDATA[<article><h1>Jenna in Japan</h1><p>Jenna in Japan: Differences Between Japanese and American Junior High Schools</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57a8c6320cd917501fa82b2af2ae9a53748f2d4e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://blacknerdproblems.com/the-art-of-storytelling-gaara-vs-rock-lee/</link>
             <guid isPermaLink="false">f1b6f9cc-30c8-45dd-b3de-46ae44d4056b</guid>
             <pubDate>Thu, 11 Feb 2016 10:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 2016 Sakura Forecast by the Japan Weather Association Has Been Released!]]></title>
-            <description><![CDATA[<article><h1>The 2016 Sakura Forecast by the Japan Weather Association Has Been Released!</h1><p>When Setsubun holiday on February 3rd has finished, it's time for Spring in Japan! While the weather in February may still be cold, there are promises of spring everywhere. There is especially good news for those who are hoping to see Japan's famously beautiful sakura blooming in 2016!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29c2846347d9a3f1c1927bdbb9d1317b2b10ad41.jpg"></article>]]></description>
-            <link>http://jpninfo.com/41501</link>
-            <guid isPermaLink="false">65d638b1-8acd-4609-a865-a5c9c942f7bf</guid>
-            <pubDate>Sun, 07 Feb 2016 02:00:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
