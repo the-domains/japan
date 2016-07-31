@@ -4,8 +4,14 @@
         <description><![CDATA[Lessons on Japan and Japanese life]]></description>
         <link>https://thegrid.ai/japan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 07:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 07:23:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/japan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[スタートレック TNG 第109話 その１]]></title>
+            <link>http://www.nicovideo.jp/watch/sm19546693</link>
+            <guid isPermaLink="false">a1bffa6f-47fc-4ec0-8e7f-1342a7157152</guid>
+            <pubDate>Sun, 31 Jul 2016 07:22:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[吹替映画集 by 1qaz2wsx - ニコニコ動画]]></title>
             <description><![CDATA[<article><h1>吹替映画集 by 1qaz2wsx - ニコニコ動画</h1><p>吹替映画集 by 1qaz2wsx - 「プリティ・プリンセス(日本語吹替) 1/12」「ナショナル・トレジャー2 リンカーン暗殺者の日記(日本語吹替) 1/6」「ディック＆ジェーン(日本語吹替) 1/5」</p></article>]]></description>
@@ -68,13 +74,6 @@
             <link>https://www.youtube.com/watch?v=z4sm2ksYbLY</link>
             <guid isPermaLink="false">4ddc8f1b-af5c-4206-beb5-9727fb02a44b</guid>
             <pubDate>Mon, 25 Apr 2016 09:48:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ソードアート・オンライン ザ・ビギニング Sponsored by IBM]]></title>
-            <description><![CDATA[<article><h1>ソードアート・オンライン ザ・ビギニング Sponsored by IBM</h1><p>2016年春。≪ソードアート・オンライン≫創生の秘密が、ついに紐解かれる―――。≪SAOアルファテスト≫の実施が決定！アルファテスター募集中！ソードアート・オンライン ザ・ビギニング Sponsored by IBM</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0eb41901e91b98b3cb0d2299d00cf30162a5c32d.jpg"></article>]]></description>
-            <link>http://www.vrmmo-project.jp/sp/</link>
-            <guid isPermaLink="false">1da98547-cf33-4ab7-83f8-90aadc281acb</guid>
-            <pubDate>Thu, 21 Apr 2016 23:51:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
