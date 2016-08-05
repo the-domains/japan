@@ -4,15 +4,8 @@
         <description><![CDATA[Lessons on Japan and Japanese life]]></description>
         <link>https://thegrid.ai/japan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 01:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 01:05:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/japan/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[SHAKE_SHACK]]></title>
-            <description><![CDATA[<article><h1>SHAKE_SHACK</h1><p>シェイクシャックジャパン公式ホームページです。「現代のバーガースタンド」をコンセプトに、最高のバーガー、ホットドッグ、フローズンカスタード、シェイク、ビール、ワインが楽しめます。</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/701cb1e6a1f927401bb2b39574e88c87/noop.jpg?input=http%3A%2F%2Fwww.shakeshack.jp%2Fimg%2Ffb_img.jpg"></article>]]></description>
-            <link>http://www.shakeshack.jp/location/gaien</link>
-            <guid isPermaLink="false">6635e384-7187-4e77-b272-8eaf9386a448</guid>
-            <pubDate>Fri, 05 Aug 2016 01:04:59 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[10 Beautiful Japanese Words That Don't Exist In English]]></title>
             <description><![CDATA[<article><h1>10 Beautiful Japanese Words That Don't Exist In English</h1><p>When you learn a foreign language you try to translate all the words from your native language, but this is not possible all the time. For instance, when I asked my friend from a small tribe in Burma to translate "breakfast" in her native language, she replied that they don't use a special word for ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d75d7fafff5631dcefed874d32d06a36/noop.jpg?input=http%3A%2F%2Fwww.abundancepedia.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fjapan.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <link>http://www.guidetojapanese.org/learn/grammar/reasoning</link>
             <guid isPermaLink="false">621402ff-9aee-48a8-adb4-c2cb55a7313f</guid>
             <pubDate>Sat, 14 May 2016 01:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ghibli Exhibition in Tokyo!]]></title>
+            <description><![CDATA[<article><h1>Ghibli Exhibition in Tokyo!</h1><p>ジブリの大博覧会　～ナウシカから最新作「レッドタートル」まで～</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9beb1081baad08ce649079aaa7323f0305ae4e63.png"></article>]]></description>
+            <link>http://www.roppongihills.com/tcv/jp/ghibli-expo/sp/</link>
+            <guid isPermaLink="false">731145f7-a8cc-4813-84ef-558f37485474</guid>
+            <pubDate>Fri, 13 May 2016 06:41:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
