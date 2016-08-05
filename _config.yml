@@ -1,7 +1,34 @@
-name: Japan
-favicon: null
-layout_spectrum: 0.506383
 typography_spectrum: 0.7118201
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2034048
+  lightness: 0.799767
+  saturation: 0.9956425
+  rhythmicContrast: 0.5461788
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.506383
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Japan
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Manga to Read
+    id: 900d124b-33dc-4fa1-a5c6-fd8ef4fd1564
+    type: content
+favicon: null
 collections:
   - index:
       navigable: true
@@ -15,27 +42,4 @@ collections:
     permalink:
       path: '/:title/'
 title: Lessons on Japan and Japanese life
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.2034048
-  lightness: 0.799767
-  saturation: 0.9956425
-  rhythmicContrast: 0.5461788
 purpose: []
