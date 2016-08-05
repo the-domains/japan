@@ -29,15 +29,14 @@ app_links:
     package: org.wikipedia
     namespace: google
     type: android
-isBasedOnUrl: 'https://en.wikipedia.org/wiki/Sunday_Without_God'
 title: 'Sunday Without God - Wikipedia, the free encyclopedia'
-datePublished: '2016-06-12T12:58:52.784Z'
-dateModified: '2016-06-12T12:57:21.885Z'
-starred: false
+datePublished: '2016-08-05T01:15:35.408Z'
+dateModified: '2016-08-05T01:15:34.746Z'
 sourcePath: _posts/2016-06-12-sunday-without-god-wikipedia-the-free-encyclopedia.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: sunday-without-god-wikipedia-the-free-encyclopedia/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
