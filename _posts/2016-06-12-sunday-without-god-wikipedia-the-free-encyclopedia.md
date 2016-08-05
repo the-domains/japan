@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T01:18:10.408Z'
+datePublished: '2016-08-05T01:20:52.642Z'
 sourcePath: _posts/2016-06-12-sunday-without-god-wikipedia-the-free-encyclopedia.md
 hasPage: true
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-05T01:18:09.778Z'
+dateModified: '2016-08-05T01:20:51.961Z'
 title: 'Sunday Without God - Wikipedia, the free encyclopedia'
 app_links:
   - path: http/en.m.wikipedia.org/wiki/Sunday_Without_God
@@ -41,6 +41,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<img src="http://img1.ak.crunchyroll.com/i/spire2/654681f8eefdc13ad8dee196ff2a74f71366329524_full.jpg"> 
+<img src="http://img1.ak.crunchyroll.com/i/spire2/654681f8eefdc13ad8dee196ff2a74f71366329524_full.jpg"> <a href="www.google.com">Google</a> 
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5eeffd7c531dd61ead86c45647c4346dbce4e44f.jpg" /><h1>Sunday Without God - Wikipedia, the free encyclopedia</h1><p>Sunday Without God , also known as Kaminai for short, is a Japanese light novel series written by Kimihito Irie, with illustrations by Shino. Fujimi Shobo has published nine volumes since January 2010 under their Fujimi Fantasia Bunko imprint. A manga adaptation by Abaraheiki began serialization in the November 2010 issue of Fujimi Shobo's Monthly Dragon Age .</p></article>
